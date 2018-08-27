@@ -5,4 +5,4 @@ function destructivelyAppendDriver(name){
   return drivers.push('Ralp');
 }
 
-destructivelyAppendDriver('Ralph');
+function destructivelyAppendDriver('Ralph');
